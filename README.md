@@ -1,13 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I'm Kaindra
 
-<!--
-**MaheswaraKaindra/MaheswaraKaindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 currently studying at Institut Teknologi Bandung
 
-- 🔭 I’m currently studying at Institut Teknologi Bandung
+---
 
-- 📫 How to reach me: 
-  - Instagram : @kaindr4
+### Skills
+
+#### Most Used Languages
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaheswaraKaindra&layout=compact&theme=radical&langs_count=6" alt="Most Used Languages"/>
+</p>
+
+#### Skills Overview
+- **Languages:** Python, Java, C, JavaScript, Haskell, Prolog.
+- **Interests:** Machine Learning, Software Engineering.
+
+---
+
+- 📫 Contact: 
+  - Linkedin : [@kaindr4](https://www.linkedin.com/in/maheswarakaindra/)
   - E-Mail : maheswarakaindra11@gmail.com
-- 😄 Pronouns: He / Him
+
+---
