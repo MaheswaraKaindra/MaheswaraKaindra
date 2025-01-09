@@ -1,4 +1,4 @@
-/* Fakta suksesor(X,Y) yang menyatakan bahwa Y adalah suksesor dari X, dengan Y<9 dan 1<=X<=8 */
+/* Fakta suksesor(X,Y) yang menyatakan bahwa Y adalah suksesor dari X, dengan Y<9 dan 0<=X<=8 */
 suksesor(0,1).
 suksesor(1,2).
 suksesor(2,3).
