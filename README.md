@@ -2,8 +2,6 @@
 
 ---
 
-### Skills
-
 #### Most Used Languages
 
 <p align="left">
