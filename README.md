@@ -2,10 +2,6 @@
 
 ---
 
-- 🔭 currently studying at Institut Teknologi Bandung
-
----
-
 ### Skills
 
 #### Most Used Languages
@@ -20,7 +16,7 @@
 
 ---
 
-- 📫 Contact: 
+Contact: 
   - Linkedin : [@kaindr4](https://www.linkedin.com/in/maheswarakaindra/)
   - E-Mail : maheswarakaindra11@gmail.com
 
